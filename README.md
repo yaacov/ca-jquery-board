@@ -11,17 +11,17 @@ The [jQuery](http://jquery.com/) board widget use [jQuery-ui](http://jqueryui.co
 
 ###Examples
 
-* Example 1: Board with elements, how to create a board with elements, [example1](https://github.com/yaacov/ca-jquery-board/blob/master/example1.html).
+* Example 1: Board with elements, how to create a board with elements, [example1](https://github.com/yaacov/ca-jquery-board/blob/master/example1.html)  [run](https://rawgithub.com/yaacov/ca-jquery-board/master/example1.html).
 
-* Example 2: Simple tasks like copy, paste, delete and show-grid, [example2](https://github.com/yaacov/ca-jquery-board/blob/master/example2.html).
+* Example 2: Simple tasks like copy, paste, delete and show-grid, [example2](https://github.com/yaacov/ca-jquery-board/blob/master/example2.html)  [run](https://rawgithub.com/yaacov/ca-jquery-board/master/example2.html).
 
 <img src="https://github.com/yaacov/ca-jquery-board/blob/master/example-img/edit-mode.png" width="400" />
 
-* Example 3: Customizing the board, creating flower and tree custom elements using hooks, [example3](https://github.com/yaacov/ca-jquery-board/blob/master/example3.html).
+* Example 3: Customizing the board, creating flower and tree custom elements using hooks, [example3](https://github.com/yaacov/ca-jquery-board/blob/master/example3.html)  [run](https://rawgithub.com/yaacov/ca-jquery-board/master/example3.html).
 
-* Example 4: Customizing the board, using the example flower widget plug-in, [example4](https://github.com/yaacov/ca-jquery-board/blob/master/example4.html).
+* Example 4: Customizing the board, using the example flower widget plug-in, [example4](https://github.com/yaacov/ca-jquery-board/blob/master/example4.html)  [run](https://rawgithub.com/yaacov/ca-jquery-board/master/example4.html).
 
-* Example 5: Customizing the board, using the dialog forms plug-in, [example5](https://github.com/yaacov/ca-jquery-board/blob/master/example5.html).
+* Example 5: Customizing the board, using the dialog forms plug-in, [example5](https://github.com/yaacov/ca-jquery-board/blob/master/example5.html)  [run](https://rawgithub.com/yaacov/ca-jquery-board/master/example5.html).
 
 ##Built in Functionality
 
