@@ -5,7 +5,7 @@ A jQuery board widget
 
 The [jQuery](http://jquery.com/) board widget use [jQuery-ui](http://jqueryui.com/) draggable, resizable and selectable widgets to create an editable view of objects. Objects can be yellow notes on a notes board, windows on a windows manager screen or images on a drawing board. 
 
-<img src="https://github.com/yaacov/ca-jquery-board/blob/master/example-img/view-mode.png" width="400" />
+<img src="https://raw.github.com/yaacov/ca-jquery-board/master/example-img/view-mode.png" width="400" />
 
 [Link to video example](http://www.youtube.com/watch?v=0P6tHmwV2Qk")
 
@@ -15,7 +15,7 @@ The [jQuery](http://jquery.com/) board widget use [jQuery-ui](http://jqueryui.co
 
 * Example 2: Simple tasks like copy, paste, delete and show-grid, [example2](https://github.com/yaacov/ca-jquery-board/blob/master/example2.html) ( [run](https://rawgithub.com/yaacov/ca-jquery-board/master/example2.html) ).
 
-<img src="https://github.com/yaacov/ca-jquery-board/blob/master/example-img/edit-mode.png" width="400" />
+<img src="https://raw.github.com/yaacov/ca-jquery-board/master/example-img/edit-mode.png" width="400" />
 
 * Example 3: Customizing the board, creating flower and tree custom elements using hooks, [example3](https://github.com/yaacov/ca-jquery-board/blob/master/example3.html) ( [run](https://rawgithub.com/yaacov/ca-jquery-board/master/example3.html) ).
 
