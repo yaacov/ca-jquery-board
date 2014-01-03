@@ -5,23 +5,23 @@ A jQuery board widget
 
 The [jQuery](http://jquery.com/) board widget use [jQuery-ui](http://jqueryui.com/) draggable, resizable and selectable widgets to create an editable view of objects. Objects can be yellow notes on a notes board, windows on a windows manager screen or images on a drawing board. 
 
-[video exmpale](http://www.youtube.com/watch?v=0P6tHmwV2Qk")
+<img src="https://github.com/yaacov/ca-jquery-board/blob/master/example-img/view-mode.png" width="400" />
+
+[Link to video example](http://www.youtube.com/watch?v=0P6tHmwV2Qk")
 
 ###Examples
 
-* Example 1: Board with elements, how to create a board with elements, [example1](http://ca-jquery-board.googlecode.com/hg/example1.html).
+* Example 1: Board with elements, how to create a board with elements, [example1](https://github.com/yaacov/ca-jquery-board/blob/master/example1.html).
 
-* Example 2: Simple tasks like copy, paste, delete and show-grid, [example2](http://ca-jquery-board.googlecode.com/hg/example2.html).
+* Example 2: Simple tasks like copy, paste, delete and show-grid, [example2](https://github.com/yaacov/ca-jquery-board/blob/master/example2.html).
 
-<img src="http://ca-jquery-board.googlecode.com/hg/example-img/edit-mode.png" width="400" />
+<img src="https://github.com/yaacov/ca-jquery-board/blob/master/example-img/edit-mode.png" width="400" />
 
-* Example 3: Customizing the board, creating flower and tree custom elements using hooks, [example3](http://ca-jquery-board.googlecode.com/hg/example3.html).
+* Example 3: Customizing the board, creating flower and tree custom elements using hooks, [example3](https://github.com/yaacov/ca-jquery-board/blob/master/example3.html).
 
-<img src="http://ca-jquery-board.googlecode.com/hg/example-img/view-mode.png" width="400" />
+* Example 4: Customizing the board, using the example flower widget plug-in, [example4](https://github.com/yaacov/ca-jquery-board/blob/master/example4.html).
 
-* Example 4: Customizing the board, using the example flower widget plug-in, [example4](http://ca-jquery-board.googlecode.com/hg/example4.html).
-
-* Example 5: Customizing the board, using the dialog forms plug-in, [example5](http://ca-jquery-board.googlecode.com/hg/example5.html).
+* Example 5: Customizing the board, using the dialog forms plug-in, [example5](https://github.com/yaacov/ca-jquery-board/blob/master/example5.html).
 
 ##Built in Functionality
 
